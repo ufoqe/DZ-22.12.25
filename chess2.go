@@ -84,4 +84,5 @@ func main() {
 	}
 	fmt.Println()
 	fmt.Printf("Белые : %s\n", d)
+
 }
